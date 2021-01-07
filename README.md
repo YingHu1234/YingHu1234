@@ -2,7 +2,7 @@
 
 🌱 Welcome to visit!
 
-🌞 I am a MS student in Business Analytics at CSU Eastbay, with four years of accounting experience. Passionate about databases and analytics because I realized I could use data analysis to better understand and navigate the world around me.  
+🌞 I am a MS student in Business Analytics at CSU Eastbay, with four years of Accounts Payable analyst experience. Passionate about databases and analytics because I realized I could use data analysis to better understand and navigate the world around me.  
 
 <!--
 **YingHu1234/YingHu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
