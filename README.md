@@ -2,7 +2,7 @@
 
 🌱 Welcome to visit!
 
-🌞 Hello, I am Tiffany, a Jan 2021 Business Analytics Master's Graduate from California State University East Bay.
+🌞 Hello, I am Ying, a Jan 2021 Business Analytics Master's Graduate from California State University East Bay.
 
 I am a Data Engineer/Data analyst with three years of experience in the healthcare industry. During my time working in the accounts payable team, I dealt with massive transaction data from thousands of business vendors. The technology stack that I used on a day to day basis involved SQL and Python. We also used various data processing tools, including Microsoft Suites, Excel, Word, etc.)
 
