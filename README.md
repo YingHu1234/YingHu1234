@@ -8,7 +8,7 @@ I am a Data Engineer/Data analyst in the consumer electronics industry. During m
 
 Despite developing strong problem-solving skills from my work experience, I want to provide better suggestions to my threshold based on research outcomes. Thus, I decided to go back to school for a master's degree in Business Analytics to consolidate my business sense.
 
-Currently, I am actively searching for a Full-Time Data Engineer/SDE Engineer position.
+Currently, I am actively searching for a Full-Time Data Engineer/Data Analyst position.
 Thank you for your time!
 
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="300" />
